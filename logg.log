@@ -1,0 +1,33 @@
+INFO 2019-07-18 11:03:31,851 - logger: created socket
+INFO 2019-07-18 11:03:31,851 - binded host and port to socket
+DEBUG 2019-07-18 11:03:31,851 - server enter in listening mode
+INFO 2019-07-18 11:03:31,851 - waiting for connection from client
+INFO 2019-07-18 11:03:34,507 - connection from: ('127.0.0.1', 49906)
+INFO 2019-07-18 11:03:46,090 - sending HELLO
+INFO 2019-07-18 11:04:00,138 - sending FDSFDSFSDFSDF
+INFO 2019-07-18 11:04:01,706 - sending FDSFDSF
+DEBUG 2019-07-18 11:04:04,521 - data not received from client
+INFO 2019-07-18 11:04:04,521 - conn closed
+INFO 2019-07-18 11:05:05,544 - logger: created socket
+INFO 2019-07-18 11:05:05,545 - binded host and port to socket
+DEBUG 2019-07-18 11:05:05,545 - server enter in listening mode
+INFO 2019-07-18 11:05:05,545 - waiting for connection from client
+INFO 2019-07-18 11:05:07,917 - connection from: ('127.0.0.1', 49916)
+INFO 2019-07-18 11:05:09,735 - sending FSDG
+INFO 2019-07-18 11:06:56,243 - sending HELLO WELCOME NAMASTE 
+DEBUG 2019-07-18 11:06:57,407 - data not received from client
+INFO 2019-07-18 11:06:57,407 - conn closed
+INFO 2019-07-18 11:07:18,607 - logger: created socket
+INFO 2019-07-18 11:07:18,608 - binded host and port to socket
+DEBUG 2019-07-18 11:07:18,608 - server enter in listening mode
+INFO 2019-07-18 11:07:18,608 - waiting for connection from client
+INFO 2019-07-18 11:07:26,210 - connection from: ('127.0.0.1', 49920)
+INFO 2019-07-18 11:07:29,515 - sending JLKJSFDSFJSDLKF
+DEBUG 2019-07-18 11:07:32,321 - data not received from client
+INFO 2019-07-18 11:07:32,321 - conn closed
+INFO 2019-07-18 11:09:31,355 - logger: created socket
+INFO 2019-07-18 11:09:31,355 - binded host and port to socket
+INFO 2019-07-18 11:09:31,356 - waiting for connection from client
+INFO 2019-07-18 11:09:33,625 - connection from: ('127.0.0.1', 49932)
+INFO 2019-07-18 11:09:36,787 - sending DSFSFSSFDGDFHDGHGF
+INFO 2019-07-18 11:09:38,152 - conn closed
